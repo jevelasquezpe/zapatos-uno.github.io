@@ -1,5 +1,14 @@
 .img-pagos img{
-  width: 90px;
+  width: 80px;
   height: 80px;
-  margin-left: 20px;
+  margin-left: 300px;
+  margin-top: -50px;
+}
+
+.texto-header p{
+  font-size: 22px;
+  margin-top: 20px;
+  margin-bottom: 2px;
+  margin-left: 15px;
+  display: inline-block;
 }
